@@ -1,0 +1,62 @@
+body {
+    text-align: center;
+    color: #000000;
+    background: #c5c5c5;
+}
+
+.H {
+    display: inline-block;
+    border-spacing: 10px;
+}
+
+.H td {
+    padding: 0 5px;
+}
+
+.title {
+    padding: 0 0 1em 40px;
+}
+
+.title h1 {
+    font-size: 3em;
+}
+
+.title h2 {
+    font-size: 2em;
+}
+
+.imgtext {
+    display: inline-block;
+    width: 30%;
+}
+
+.beneficios {
+    border: 1em;
+    border: solid;
+    border: #666666;
+}
+
+.psyco {
+    padding: 10px 15px 15px 15px;
+    background: #908dff;
+}
+
+footer {
+    background-color: #666666;
+    padding: 1em;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li :hover{
+    color: #908dff;
+    font-weight: bolder;
+}
+
+a:-webkit-any-link {
+    color: lightseagreen;
+    cursor: pointer;
+    text-decoration: underline;
+}
